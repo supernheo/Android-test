@@ -1,11 +1,11 @@
 {
     "version": "2024-06-13-OTA-ROM-TEST",
-    "date": "",
+    "date": "1718181950",
     "variants": [
         {
-            "name": "",
-            "size": "",
-            "url": ""
+            "name": "treble_arm64_bvN",
+            "size": "2281037900",
+            "url": "https://drive.usercontent.google.com/download?id=1q6_bmQXnylmWjjCByp8wxNeMKBPgKbeY&export=download&confirm=t&uuid=6c79ac00-0cfc-45a8-9796-342b4cd84d9a"
         }
     ]
 }
